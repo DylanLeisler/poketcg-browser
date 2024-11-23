@@ -31,3 +31,6 @@ package-lock.json
 # Coverage
 coverage/
 
+#Also
+
+backup/
