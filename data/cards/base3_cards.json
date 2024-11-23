@@ -1,0 +1,7082 @@
+[
+  {
+    "id": "base3-1",
+    "name": "Aerodactyl",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "28",
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Mysterious Fossil",
+    "abilities": [
+      {
+        "name": "Prehistoric Power",
+        "text": "No more Evolution cards can be played. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Wing Attack",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "1",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Rare Holo",
+    "flavorText": "A ferocious prehistoric Pokémon that goes for the enemy's throat with its serrated saw-like fangs.",
+    "nationalPokedexNumbers": [
+      142
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/1.png",
+      "large": "https://images.pokemontcg.io/base3/1_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-1",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 40.6,
+          "mid": 47.99,
+          "high": 85,
+          "market": 66.35,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 11.97,
+          "mid": 14.73,
+          "high": 39.63,
+          "market": 24.46,
+          "directLow": 10.31
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-1",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 14.31,
+        "lowPrice": 3,
+        "trendPrice": 16.69,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 15.82,
+        "lowPriceExPlus": 11,
+        "avg1": 4.99,
+        "avg7": 10.7,
+        "avg30": 13.59,
+        "reverseHoloAvg1": 19.9,
+        "reverseHoloAvg7": 15.6,
+        "reverseHoloAvg30": 18.73
+      }
+    }
+  },
+  {
+    "id": "base3-10",
+    "name": "Lapras",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "12",
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      {
+        "name": "Confuse Ray",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "10",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "A Pokémon that has been overhunted almost to extinction. It can ferry people across water.",
+    "nationalPokedexNumbers": [
+      131
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/10.png",
+      "large": "https://images.pokemontcg.io/base3/10_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-10",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 40.02,
+          "mid": 48,
+          "high": 80,
+          "market": 75.63,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 5.17,
+          "mid": 10.41,
+          "high": 500,
+          "market": 10.64,
+          "directLow": 3.75
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-10",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 11.84,
+        "lowPrice": 1,
+        "trendPrice": 14.69,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 34.18,
+        "lowPriceExPlus": 5,
+        "avg1": 10.73,
+        "avg7": 14.58,
+        "avg30": 12.22,
+        "reverseHoloAvg1": 48.33,
+        "reverseHoloAvg7": 23.69,
+        "reverseHoloAvg30": 13.88
+      }
+    }
+  },
+  {
+    "id": "base3-11",
+    "name": "Magneton",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "35",
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Magnemite",
+    "evolvesTo": [
+      "Magnezone"
+    ],
+    "attacks": [
+      {
+        "name": "Sonicboom",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+      },
+      {
+        "name": "Selfdestruct",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "100",
+        "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 100 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "11",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "Formed by several Magnemites linked together. They frequently appear when sunspots flare up.",
+    "nationalPokedexNumbers": [
+      82
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/11.png",
+      "large": "https://images.pokemontcg.io/base3/11_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-11",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 20,
+          "mid": 33.39,
+          "high": 48.3,
+          "market": 38.16,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 3.99,
+          "mid": 9.47,
+          "high": 22,
+          "market": 9.24,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-11",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 20.25,
+        "lowPrice": 1.29,
+        "trendPrice": 20.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 15.35,
+        "lowPriceExPlus": 10,
+        "avg1": 11.97,
+        "avg7": 21.39,
+        "avg30": 19.57,
+        "reverseHoloAvg1": 39,
+        "reverseHoloAvg7": 17.22,
+        "reverseHoloAvg30": 13.17
+      }
+    }
+  },
+  {
+    "id": "base3-12",
+    "name": "Moltres",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "35",
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Wildfire",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "You may discard any number of Fire Energy cards attached to Moltres when you use this attack. If you do, discard that many cards from the top of your opponent's deck."
+      },
+      {
+        "name": "Dive Bomb",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80",
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "12",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "flavorText": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+    "nationalPokedexNumbers": [
+      146
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/12.png",
+      "large": "https://images.pokemontcg.io/base3/12_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-12",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 113.35,
+          "mid": 176.21,
+          "high": 249.99,
+          "market": 103.21,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 19.93,
+          "mid": 27.42,
+          "high": 75.99,
+          "market": 34.7,
+          "directLow": 29.97
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-12",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 32.98,
+        "lowPrice": 4.5,
+        "trendPrice": 38.45,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 29.41,
+        "lowPriceExPlus": 20,
+        "avg1": 28.7,
+        "avg7": 35.78,
+        "avg30": 33.61,
+        "reverseHoloAvg1": 67.5,
+        "reverseHoloAvg7": 34.59,
+        "reverseHoloAvg30": 27.88
+      }
+    }
+  },
+  {
+    "id": "base3-13",
+    "name": "Muk",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "34",
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Grimer",
+    "abilities": [
+      {
+        "name": "Toxic Gas",
+        "text": "Ignore all Pokémon Powers other than Toxic Gases. This power stops working while Muk is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Sludge",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "13",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "flavorText": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+    "nationalPokedexNumbers": [
+      89
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/13.png",
+      "large": "https://images.pokemontcg.io/base3/13_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-13",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 22.49,
+          "mid": 28.05,
+          "high": 35,
+          "market": 28.83,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 2.96,
+          "mid": 5,
+          "high": 17.58,
+          "market": 5.03,
+          "directLow": 2.66
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-13",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 6.61,
+        "lowPrice": 0.07,
+        "trendPrice": 4.83,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 6.46,
+        "lowPriceExPlus": 3,
+        "avg1": 4.75,
+        "avg7": 4.64,
+        "avg30": 6.67,
+        "reverseHoloAvg1": 15.46,
+        "reverseHoloAvg7": 7.59,
+        "reverseHoloAvg30": 5.88
+      }
+    }
+  },
+  {
+    "id": "base3-14",
+    "name": "Raichu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "45",
+    "hp": "90",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Pikachu",
+    "attacks": [
+      {
+        "name": "Gigashock",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "30",
+        "text": "Choose 3 of your opponent's Benched Pokémon and this attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) If your opponent has fewer than 3 Benched Pokémon, do the damage to each of them."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "14",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "flavorText": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+    "nationalPokedexNumbers": [
+      26
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/14.png",
+      "large": "https://images.pokemontcg.io/base3/14_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-14",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 49.94,
+          "mid": 56.85,
+          "high": 129,
+          "market": 72.93,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 13,
+          "mid": 22.36,
+          "high": 35.99,
+          "market": 22.79,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-14",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 31.23,
+        "lowPrice": 4,
+        "trendPrice": 28.04,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 17.82,
+        "lowPriceExPlus": 15,
+        "avg1": 31.72,
+        "avg7": 23.31,
+        "avg30": 28.87,
+        "reverseHoloAvg1": 26,
+        "reverseHoloAvg7": 17.44,
+        "reverseHoloAvg30": 19.94
+      }
+    }
+  },
+  {
+    "id": "base3-15",
+    "name": "Zapdos",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "40",
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Thunderstorm",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40",
+        "text": "For each of your opponent's Benched Pokémon, flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Then, Zapdos does 10 damage times the number of tails to itself."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "15",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "flavorText": "A legendary thunderbird Pokémon whose anger is said to cause storms. Some say it has lived above the clouds for thousands of years.",
+    "nationalPokedexNumbers": [
+      145
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/15.png",
+      "large": "https://images.pokemontcg.io/base3/15_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-15",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 51.98,
+          "mid": 71.53,
+          "high": 129.99,
+          "market": 70.21,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 9.8,
+          "mid": 17.14,
+          "high": 70,
+          "market": 16.59,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-15",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 27.63,
+        "lowPrice": 1.9,
+        "trendPrice": 19.58,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 15.29,
+        "lowPriceExPlus": 14.9,
+        "avg1": 16.78,
+        "avg7": 21.2,
+        "avg30": 26.11,
+        "reverseHoloAvg1": 27.48,
+        "reverseHoloAvg7": 19.27,
+        "reverseHoloAvg30": 17.45
+      }
+    }
+  },
+  {
+    "id": "base3-16",
+    "name": "Aerodactyl",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "28",
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Mysterious Fossil",
+    "abilities": [
+      {
+        "name": "Prehistoric Power",
+        "text": "No more Evolution cards can be played. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Wing Attack",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "16",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Rare",
+    "flavorText": "A ferocious prehistoric Pokémon that goes for the enemy's throat with its serrated saw-like fangs.",
+    "nationalPokedexNumbers": [
+      142
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/16.png",
+      "large": "https://images.pokemontcg.io/base3/16_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-16",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 4.72,
+          "mid": 10.1,
+          "high": 29.99,
+          "market": 11.3,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 1.62,
+          "mid": 3.8,
+          "high": 6.55,
+          "market": 4.08,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-16",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 6.69,
+        "lowPrice": 0.99,
+        "trendPrice": 6.92,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 8.53,
+        "lowPriceExPlus": 4.5,
+        "avg1": 3.32,
+        "avg7": 6.26,
+        "avg30": 6.61,
+        "reverseHoloAvg1": 2.24,
+        "reverseHoloAvg7": 12.28,
+        "reverseHoloAvg30": 16.15
+      }
+    }
+  },
+  {
+    "id": "base3-17",
+    "name": "Articuno",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "35",
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Freeze Dry",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Blizzard",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "50",
+        "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "17",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "flavorText": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+    "nationalPokedexNumbers": [
+      144
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/17.png",
+      "large": "https://images.pokemontcg.io/base3/17_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-17",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 16.34,
+          "mid": 19.34,
+          "high": 27.92,
+          "market": 17.11,
+          "directLow": 8.2
+        },
+        "unlimited": {
+          "low": 3,
+          "mid": 5.08,
+          "high": 19.98,
+          "market": 5.66,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-17",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 8.54,
+        "lowPrice": 0.99,
+        "trendPrice": 8.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 30.18,
+        "lowPriceExPlus": 5.97,
+        "avg1": 21.99,
+        "avg7": 9.94,
+        "avg30": 9.33,
+        "reverseHoloAvg1": 30,
+        "reverseHoloAvg7": 24.28,
+        "reverseHoloAvg30": 27.05
+      }
+    }
+  },
+  {
+    "id": "base3-18",
+    "name": "Ditto",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "20",
+    "hp": "50",
+    "types": [
+      "Colorless"
+    ],
+    "abilities": [
+      {
+        "name": "Transform",
+        "text": "If Ditto is your Active Pokémon, treat it as if it were the same card as the Defending Pokémon, including type, Hit Points, Weakness, and so on, except Ditto can't evolve, always has this Pokémon Power, and you may treat any Energy attached to Ditto as Energy of any type. Ditto isn't a copy of any other Pokémon while Ditto is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "18",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Rare",
+    "flavorText": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+    "nationalPokedexNumbers": [
+      132
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/18.png",
+      "large": "https://images.pokemontcg.io/base3/18_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-18",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 7.12,
+          "mid": 9.8,
+          "high": 19.99,
+          "market": 9.78,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 2,
+          "mid": 3.51,
+          "high": 4.99,
+          "market": 3.79,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-18",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 6.31,
+        "lowPrice": 0.49,
+        "trendPrice": 5.38,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.02,
+        "lowPriceExPlus": 3.99,
+        "avg1": 7.99,
+        "avg7": 6.83,
+        "avg30": 6.39,
+        "reverseHoloAvg1": 7,
+        "reverseHoloAvg7": 8.56,
+        "reverseHoloAvg30": 15.43
+      }
+    }
+  },
+  {
+    "id": "base3-19",
+    "name": "Dragonite",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "45",
+    "hp": "100",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Dragonair",
+    "abilities": [
+      {
+        "name": "Step In",
+        "text": "Once during your turn (before your attack), if Dragonite is on your Bench, you may switch it with your Active Pokémon.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Slam",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40×",
+        "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "19",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Rare",
+    "flavorText": "An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
+    "nationalPokedexNumbers": [
+      149
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/19.png",
+      "large": "https://images.pokemontcg.io/base3/19_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-19",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 17,
+          "mid": 32.6,
+          "high": 37,
+          "market": 33.96,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 6.49,
+          "mid": 8.91,
+          "high": 32.43,
+          "market": 11.66,
+          "directLow": 10.38
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-19",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 15.34,
+        "lowPrice": 3.5,
+        "trendPrice": 22.49,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 27.5,
+        "lowPriceExPlus": 6.99,
+        "avg1": 4,
+        "avg7": 15.13,
+        "avg30": 16.26,
+        "reverseHoloAvg1": 29,
+        "reverseHoloAvg7": 20.85,
+        "reverseHoloAvg30": 37.66
+      }
+    }
+  },
+  {
+    "id": "base3-2",
+    "name": "Articuno",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "35",
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Freeze Dry",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Blizzard",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "50",
+        "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "2",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "flavorText": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+    "nationalPokedexNumbers": [
+      144
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/2.png",
+      "large": "https://images.pokemontcg.io/base3/2_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-2",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 70,
+          "mid": 119.98,
+          "high": 500,
+          "market": 122.09,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 13.78,
+          "mid": 19.82,
+          "high": 40.49,
+          "market": 30.84,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-2",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 38.1,
+        "lowPrice": 4.5,
+        "trendPrice": 34.74,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 24.47,
+        "lowPriceExPlus": 25,
+        "avg1": 29.78,
+        "avg7": 31.67,
+        "avg30": 38.24,
+        "reverseHoloAvg1": 20,
+        "reverseHoloAvg7": 28.45,
+        "reverseHoloAvg30": 25.68
+      }
+    }
+  },
+  {
+    "id": "base3-20",
+    "name": "Gengar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "38",
+    "hp": "80",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Haunter",
+    "abilities": [
+      {
+        "name": "Curse",
+        "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Dark Mind",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "20",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Rare",
+    "flavorText": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+    "nationalPokedexNumbers": [
+      94
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/20.png",
+      "large": "https://images.pokemontcg.io/base3/20_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-20",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 18.39,
+          "mid": 21.32,
+          "high": 65,
+          "market": 28.84,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 4.99,
+          "mid": 6.72,
+          "high": 9.99,
+          "market": 7.74,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-20",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 10.67,
+        "lowPrice": 1.5,
+        "trendPrice": 11.64,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 35.96,
+        "lowPriceExPlus": 6,
+        "avg1": 9.14,
+        "avg7": 9.51,
+        "avg30": 10.66,
+        "reverseHoloAvg1": 5.5,
+        "reverseHoloAvg7": 27.93,
+        "reverseHoloAvg30": 22.95
+      }
+    }
+  },
+  {
+    "id": "base3-21",
+    "name": "Haunter",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "17",
+    "hp": "50",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Gastly",
+    "evolvesTo": [
+      "Gengar"
+    ],
+    "abilities": [
+      {
+        "name": "Transparency",
+        "text": "Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Nightmare",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "The Defending Pokémon is now Asleep."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "21",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare",
+    "flavorText": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+    "nationalPokedexNumbers": [
+      93
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/21.png",
+      "large": "https://images.pokemontcg.io/base3/21_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-21",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 5.5,
+          "mid": 6.25,
+          "high": 12,
+          "market": 9.2,
+          "directLow": 5.98
+        },
+        "unlimited": {
+          "low": 1.65,
+          "mid": 3.08,
+          "high": 7,
+          "market": 4.14,
+          "directLow": 3.59
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-21",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 7.17,
+        "lowPrice": 0.5,
+        "trendPrice": 6.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 13.83,
+        "lowPriceExPlus": 3.49,
+        "avg1": 6,
+        "avg7": 6.98,
+        "avg30": 7.28,
+        "reverseHoloAvg1": 12,
+        "reverseHoloAvg7": 16.48,
+        "reverseHoloAvg30": 10.45
+      }
+    }
+  },
+  {
+    "id": "base3-22",
+    "name": "Hitmonlee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "30",
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Stretch Kick",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "High Jump Kick",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "22",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare",
+    "flavorText": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+    "nationalPokedexNumbers": [
+      106
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/22.png",
+      "large": "https://images.pokemontcg.io/base3/22_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-22",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 3.88,
+          "mid": 7.59,
+          "high": 21.64,
+          "market": 7.6,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 1.97,
+          "mid": 4.22,
+          "high": 9.75,
+          "market": 5.04,
+          "directLow": 7.97
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-22",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 4.93,
+        "lowPrice": 0.2,
+        "trendPrice": 6.8,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 16.64,
+        "lowPriceExPlus": 3.5,
+        "avg1": 15.22,
+        "avg7": 8.38,
+        "avg30": 5.37,
+        "reverseHoloAvg1": 20,
+        "reverseHoloAvg7": 14.28,
+        "reverseHoloAvg30": 11.63
+      }
+    }
+  },
+  {
+    "id": "base3-23",
+    "name": "Hypno",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "36",
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Drowzee",
+    "attacks": [
+      {
+        "name": "Prophecy",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Look at up to 3 cards from the top of either player's deck and rearrange them as you like."
+      },
+      {
+        "name": "Dark Mind",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "23",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare",
+    "flavorText": "When it locks eyes with an enemy, it will use a mix of psi moves such as Hypnosis and Confusion.",
+    "nationalPokedexNumbers": [
+      97
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/23.png",
+      "large": "https://images.pokemontcg.io/base3/23_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-23",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 3.01,
+          "mid": 9.76,
+          "high": 20,
+          "market": 10.27,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 1,
+          "mid": 3.45,
+          "high": 10.6,
+          "market": 4.1,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-23",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 4.93,
+        "lowPrice": 0.5,
+        "trendPrice": 6.19,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.49,
+        "lowPriceExPlus": 1.99,
+        "avg1": 3.33,
+        "avg7": 6.2,
+        "avg30": 5.23,
+        "reverseHoloAvg1": 30,
+        "reverseHoloAvg7": 15.2,
+        "reverseHoloAvg30": 15.58
+      }
+    }
+  },
+  {
+    "id": "base3-24",
+    "name": "Kabutops",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "30",
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Kabuto",
+    "attacks": [
+      {
+        "name": "Sharp Sickle",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Absorb",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40",
+        "text": "Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "24",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare",
+    "flavorText": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids. ",
+    "nationalPokedexNumbers": [
+      141
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/24.png",
+      "large": "https://images.pokemontcg.io/base3/24_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-24",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 5.59,
+          "mid": 9.68,
+          "high": 15.05,
+          "market": 10.54,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 1.85,
+          "mid": 3,
+          "high": 7.89,
+          "market": 3.94,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-24",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 5.95,
+        "lowPrice": 0.7,
+        "trendPrice": 8.57,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 13.84,
+        "lowPriceExPlus": 4.9,
+        "avg1": 22.75,
+        "avg7": 7.27,
+        "avg30": 6.62,
+        "reverseHoloAvg1": 14,
+        "reverseHoloAvg7": 14.21,
+        "reverseHoloAvg30": 12.07
+      }
+    }
+  },
+  {
+    "id": "base3-25",
+    "name": "Lapras",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "31",
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      {
+        "name": "Confuse Ray",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "25",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare",
+    "flavorText": "A Pokémon that has been overhunted almost to extinction. It can ferry people across water.",
+    "nationalPokedexNumbers": [
+      131
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/25.png",
+      "large": "https://images.pokemontcg.io/base3/25_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-25",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 6.26,
+          "mid": 9.25,
+          "high": 22.35,
+          "market": 10.06,
+          "directLow": 7.47
+        },
+        "unlimited": {
+          "low": 1.5,
+          "mid": 3.28,
+          "high": 11.01,
+          "market": 4.06,
+          "directLow": 2.26
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-25",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 8.54,
+        "lowPrice": 0.7,
+        "trendPrice": 5.88,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 3.64,
+        "lowPriceExPlus": 3,
+        "avg1": 3.3,
+        "avg7": 4.84,
+        "avg30": 8,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 4.14,
+        "reverseHoloAvg30": 8.3
+      }
+    }
+  },
+  {
+    "id": "base3-26",
+    "name": "Magneton",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "35",
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Magnemite",
+    "evolvesTo": [
+      "Magnezone"
+    ],
+    "attacks": [
+      {
+        "name": "Sonicboom",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+      },
+      {
+        "name": "Selfdestruct",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "100",
+        "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 100 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "26",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare",
+    "flavorText": "Formed by several Magnemites linked together. They frequently appear when sunspots flare up.",
+    "nationalPokedexNumbers": [
+      82
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/26.png",
+      "large": "https://images.pokemontcg.io/base3/26_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-26",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 4.16,
+          "mid": 5.56,
+          "high": 9.2,
+          "market": 6.69,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 1.11,
+          "mid": 2.87,
+          "high": 8.74,
+          "market": 2.99,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-26",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 5.59,
+        "lowPrice": 0.05,
+        "trendPrice": 7.69,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 18.58,
+        "lowPriceExPlus": 2.29,
+        "avg1": 6.03,
+        "avg7": 6.54,
+        "avg30": 6.1,
+        "reverseHoloAvg1": 11.99,
+        "reverseHoloAvg7": 18.84,
+        "reverseHoloAvg30": 14.89
+      }
+    }
+  },
+  {
+    "id": "base3-27",
+    "name": "Moltres",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "35",
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Wildfire",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "You may discard any number of Fire Energy cards attached to Moltres when you use this attack. If you do, discard that many cards from the top of your opponent's deck."
+      },
+      {
+        "name": "Dive Bomb",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80",
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "27",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "flavorText": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+    "nationalPokedexNumbers": [
+      146
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/27.png",
+      "large": "https://images.pokemontcg.io/base3/27_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-27",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 9.97,
+          "mid": 15,
+          "high": 24.58,
+          "market": 16.79,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 2.55,
+          "mid": 5.24,
+          "high": 16.89,
+          "market": 6.02,
+          "directLow": 5.4
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-27",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 8.44,
+        "lowPrice": 0.05,
+        "trendPrice": 11.18,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 19.02,
+        "lowPriceExPlus": 5,
+        "avg1": 18.98,
+        "avg7": 7.18,
+        "avg30": 8.17,
+        "reverseHoloAvg1": 12,
+        "reverseHoloAvg7": 14.06,
+        "reverseHoloAvg30": 18.41
+      }
+    }
+  },
+  {
+    "id": "base3-28",
+    "name": "Muk",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "34",
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Grimer",
+    "abilities": [
+      {
+        "name": "Toxic Gas",
+        "text": "Ignore all Pokémon Powers other than Toxic Gases. This power stops working while Muk is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Sludge",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "28",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "flavorText": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+    "nationalPokedexNumbers": [
+      89
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/28.png",
+      "large": "https://images.pokemontcg.io/base3/28_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-28",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 4.8,
+          "mid": 7.22,
+          "high": 25,
+          "market": 7.76,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 1,
+          "mid": 3.61,
+          "high": 6.99,
+          "market": 3.77,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-28",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 5.9,
+        "lowPrice": 0.2,
+        "trendPrice": 5.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 5.9,
+        "lowPriceExPlus": 4.48,
+        "avg1": 4,
+        "avg7": 4.8,
+        "avg30": 5.83,
+        "reverseHoloAvg1": 1.8,
+        "reverseHoloAvg7": 5.46,
+        "reverseHoloAvg30": 4.35
+      }
+    }
+  },
+  {
+    "id": "base3-29",
+    "name": "Raichu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "45",
+    "hp": "90",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Pikachu",
+    "attacks": [
+      {
+        "name": "Gigashock",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "30",
+        "text": "Choose 3 of your opponent's Benched Pokémon and this attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) If your opponent has fewer than 3 Benched Pokémon, do that damage to each of them."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "29",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "flavorText": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+    "nationalPokedexNumbers": [
+      26
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/29.png",
+      "large": "https://images.pokemontcg.io/base3/29_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-29",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 5.14,
+          "mid": 13.76,
+          "high": 17.5,
+          "market": 13.84,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 1.5,
+          "mid": 3.69,
+          "high": 8.77,
+          "market": 3.85,
+          "directLow": 4.27
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-29",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 6.72,
+        "lowPrice": 1,
+        "trendPrice": 3.85,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 20.41,
+        "lowPriceExPlus": 1.99,
+        "avg1": 10.73,
+        "avg7": 5.22,
+        "avg30": 6.89,
+        "reverseHoloAvg1": 3,
+        "reverseHoloAvg7": 16.43,
+        "reverseHoloAvg30": 14.21
+      }
+    }
+  },
+  {
+    "id": "base3-3",
+    "name": "Ditto",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "20",
+    "hp": "50",
+    "types": [
+      "Colorless"
+    ],
+    "abilities": [
+      {
+        "name": "Transform",
+        "text": "If Ditto is your Active Pokémon, treat it as if it were the same card as the Defending Pokémon, including type, Hit Points, Weakness, and so on, except Ditto can't evolve, always has this Pokémon Power, and you may treat any Energy attached to Ditto as Energy of any type. Ditto isn't a copy of any other Pokémon while Ditto is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "3",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Rare Holo",
+    "flavorText": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+    "nationalPokedexNumbers": [
+      132
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/3.png",
+      "large": "https://images.pokemontcg.io/base3/3_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-3",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 40.3,
+          "mid": 43.5,
+          "high": 124.99,
+          "market": 65.95,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 14.31,
+          "mid": 20.1,
+          "high": 51.6,
+          "market": 21.57,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-3",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 23.66,
+        "lowPrice": 3,
+        "trendPrice": 23.52,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 17.49,
+        "lowPriceExPlus": 20,
+        "avg1": 31.63,
+        "avg7": 25.53,
+        "avg30": 24.59,
+        "reverseHoloAvg1": 42.5,
+        "reverseHoloAvg7": 18.07,
+        "reverseHoloAvg30": 17.46
+      }
+    }
+  },
+  {
+    "id": "base3-30",
+    "name": "Zapdos",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "40",
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Thunderstorm",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40",
+        "text": "For each of your opponent's Benched Pokémon, flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Then, Zapdos does 10 damage times the number of tails to itself."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "30",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "flavorText": "A legendary thunderbird Pokémon whose anger is said to cause storms. Some say it has lived above the clouds for thousands of years.",
+    "nationalPokedexNumbers": [
+      145
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/30.png",
+      "large": "https://images.pokemontcg.io/base3/30_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-30",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 10.54,
+          "mid": 16.17,
+          "high": 49.99,
+          "market": 18.88,
+          "directLow": null
+        },
+        "unlimited": {
+          "low": 2.39,
+          "mid": 4.15,
+          "high": 13.94,
+          "market": 4.3,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-30",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 8.19,
+        "lowPrice": 1.5,
+        "trendPrice": 5,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 14.19,
+        "lowPriceExPlus": 3.75,
+        "avg1": 9.98,
+        "avg7": 6.16,
+        "avg30": 7.77,
+        "reverseHoloAvg1": 39.99,
+        "reverseHoloAvg7": 11,
+        "reverseHoloAvg30": 11.13
+      }
+    }
+  },
+  {
+    "id": "base3-31",
+    "name": "Arbok",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "27",
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Ekans",
+    "attacks": [
+      {
+        "name": "Terror Strike",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads and if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+      },
+      {
+        "name": "Poison Fang",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20",
+        "text": "The Defending Pokémon is now Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "31",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "flavorText": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+    "nationalPokedexNumbers": [
+      24
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/31.png",
+      "large": "https://images.pokemontcg.io/base3/31_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-31",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.46,
+          "mid": 2.16,
+          "high": 19.99,
+          "market": 2.41,
+          "directLow": 0.81
+        },
+        "unlimited": {
+          "low": 0.24,
+          "mid": 0.55,
+          "high": 2,
+          "market": 0.61,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-31",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.39,
+        "lowPrice": 0.02,
+        "trendPrice": 1.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 2.51,
+        "lowPriceExPlus": 0.1,
+        "avg1": 1.28,
+        "avg7": 1.07,
+        "avg30": 1.38,
+        "reverseHoloAvg1": 4,
+        "reverseHoloAvg7": 1.83,
+        "reverseHoloAvg30": 1.83
+      }
+    }
+  },
+  {
+    "id": "base3-32",
+    "name": "Cloyster",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "25",
+    "hp": "50",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Shellder",
+    "attacks": [
+      {
+        "name": "Clamp",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage)."
+      },
+      {
+        "name": "Spike Cannon",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "32",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "flavorText": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+    "nationalPokedexNumbers": [
+      91
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/32.png",
+      "large": "https://images.pokemontcg.io/base3/32_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-32",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.5,
+          "mid": 1.78,
+          "high": 10,
+          "market": 1.92,
+          "directLow": 0.69
+        },
+        "unlimited": {
+          "low": 0.14,
+          "mid": 0.51,
+          "high": 2.99,
+          "market": 0.59,
+          "directLow": 0.23
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-32",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.21,
+        "lowPrice": 0.02,
+        "trendPrice": 1.34,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.19,
+        "avg1": 1.24,
+        "avg7": 1.13,
+        "avg30": 1.29,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "base3-33",
+    "name": "Gastly",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "17",
+    "hp": "50",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [
+      "Haunter"
+    ],
+    "attacks": [
+      {
+        "name": "Lick",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Energy Conversion",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Put up to 2 Energy cards from your discard pile into your hand. Gastly does 10 damage to itself."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "33",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "flavorText": "A mysterious Pokémon. Some say it is a lifeform from another dimension, while other believe it is formed from smog.",
+    "nationalPokedexNumbers": [
+      92
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/33.png",
+      "large": "https://images.pokemontcg.io/base3/33_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-33",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.81,
+          "mid": 2.25,
+          "high": 7.52,
+          "market": 2.32,
+          "directLow": 2.25
+        },
+        "unlimited": {
+          "low": 0.19,
+          "mid": 0.59,
+          "high": 2.22,
+          "market": 0.63,
+          "directLow": 0.59
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-33",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.43,
+        "lowPrice": 0.02,
+        "trendPrice": 1.9,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.72,
+        "lowPriceExPlus": 0.25,
+        "avg1": 1.22,
+        "avg7": 2.07,
+        "avg30": 1.63,
+        "reverseHoloAvg1": 4,
+        "reverseHoloAvg7": 1.11,
+        "reverseHoloAvg30": 1.11
+      }
+    }
+  },
+  {
+    "id": "base3-34",
+    "name": "Golbat",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "29",
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Zubat",
+    "evolvesTo": [
+      "Crobat"
+    ],
+    "attacks": [
+      {
+        "name": "Wing Attack",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Leech Life",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20",
+        "text": "Remove a number of damage counters from Golbat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Golbat has fewer damage counters than that, remove all of them."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "34",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "flavorText": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+    "nationalPokedexNumbers": [
+      42
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/34.png",
+      "large": "https://images.pokemontcg.io/base3/34_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-34",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.98,
+          "mid": 2,
+          "high": 5.67,
+          "market": 1.89,
+          "directLow": 1.67
+        },
+        "unlimited": {
+          "low": 0.12,
+          "mid": 0.47,
+          "high": 2.24,
+          "market": 0.51,
+          "directLow": 0.22
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-34",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.05,
+        "lowPrice": 0.02,
+        "trendPrice": 0.98,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0,
+        "lowPriceExPlus": 0.1,
+        "avg1": 0.89,
+        "avg7": 0.98,
+        "avg30": 1,
+        "reverseHoloAvg1": 0,
+        "reverseHoloAvg7": 0,
+        "reverseHoloAvg30": 0
+      }
+    }
+  },
+  {
+    "id": "base3-35",
+    "name": "Golduck",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "27",
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Psyduck",
+    "attacks": [
+      {
+        "name": "Psyshock",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Hyper Beam",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20",
+        "text": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "35",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "flavorText": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+    "nationalPokedexNumbers": [
+      55
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/35.png",
+      "large": "https://images.pokemontcg.io/base3/35_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-35",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 1.25,
+          "mid": 2.5,
+          "high": 6.67,
+          "market": 2.57,
+          "directLow": 1.22
+        },
+        "unlimited": {
+          "low": 0.2,
+          "mid": 0.66,
+          "high": 2,
+          "market": 0.72,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-35",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.88,
+        "lowPrice": 0.02,
+        "trendPrice": 1.65,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.41,
+        "lowPriceExPlus": 0.15,
+        "avg1": 0.77,
+        "avg7": 1.04,
+        "avg30": 1.86,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.41,
+        "reverseHoloAvg30": 0.41
+      }
+    }
+  },
+  {
+    "id": "base3-36",
+    "name": "Golem",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "36",
+    "hp": "80",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Graveler",
+    "attacks": [
+      {
+        "name": "Avalanche",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60",
+        "text": ""
+      },
+      {
+        "name": "Selfdestruct",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "100",
+        "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Golem does 100 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "36",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "flavorText": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+    "nationalPokedexNumbers": [
+      76
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/36.png",
+      "large": "https://images.pokemontcg.io/base3/36_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-36",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 1.25,
+          "mid": 3,
+          "high": 6.48,
+          "market": 3.22,
+          "directLow": 2.65
+        },
+        "unlimited": {
+          "low": 0.29,
+          "mid": 0.76,
+          "high": 30,
+          "market": 0.87,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-36",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 2.15,
+        "lowPrice": 0.02,
+        "trendPrice": 1.86,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 2.63,
+        "lowPriceExPlus": 0.45,
+        "avg1": 1.44,
+        "avg7": 1.63,
+        "avg30": 2.23,
+        "reverseHoloAvg1": 1.65,
+        "reverseHoloAvg7": 1.78,
+        "reverseHoloAvg30": 1.78
+      }
+    }
+  },
+  {
+    "id": "base3-37",
+    "name": "Graveler",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "29",
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Geodude",
+    "evolvesTo": [
+      "Golem"
+    ],
+    "attacks": [
+      {
+        "name": "Harden",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "During your opponent's next turn, whenever 30 or less damage is done to Graveler (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+      },
+      {
+        "name": "Rock Throw",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "37",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "flavorText": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+    "nationalPokedexNumbers": [
+      75
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/37.png",
+      "large": "https://images.pokemontcg.io/base3/37_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-37",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.94,
+          "mid": 1.8,
+          "high": 4.99,
+          "market": 2.1,
+          "directLow": 0.63
+        },
+        "unlimited": {
+          "low": 0.09,
+          "mid": 0.47,
+          "high": 5,
+          "market": 0.6,
+          "directLow": 0.24
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-37",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.84,
+        "lowPrice": 0.02,
+        "trendPrice": 0.81,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.17,
+        "lowPriceExPlus": 0.1,
+        "avg1": 0.53,
+        "avg7": 0.73,
+        "avg30": 0.83,
+        "reverseHoloAvg1": 0.17,
+        "reverseHoloAvg7": 0.18,
+        "reverseHoloAvg30": 0.18
+      }
+    }
+  },
+  {
+    "id": "base3-38",
+    "name": "Kingler",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "27",
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Krabby",
+    "attacks": [
+      {
+        "name": "Flail",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10×",
+        "text": "Does 10 damage times the number of damage counters on Kingler."
+      },
+      {
+        "name": "Crabhammer",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "38",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "flavorText": "The large pincer has 10,000 horsepower of crushing power. However, its huge size makes it unwieldy to use.",
+    "nationalPokedexNumbers": [
+      99
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/38.png",
+      "large": "https://images.pokemontcg.io/base3/38_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-38",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.51,
+          "mid": 1.49,
+          "high": 4,
+          "market": 1.78,
+          "directLow": 0.83
+        },
+        "unlimited": {
+          "low": 0.09,
+          "mid": 0.44,
+          "high": 2,
+          "market": 0.49,
+          "directLow": 0.16
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-38",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.43,
+        "lowPrice": 0.02,
+        "trendPrice": 1.09,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.42,
+        "lowPriceExPlus": 0.1,
+        "avg1": 1.5,
+        "avg7": 0.85,
+        "avg30": 1.5,
+        "reverseHoloAvg1": 0.35,
+        "reverseHoloAvg7": 0.46,
+        "reverseHoloAvg30": 0.46
+      }
+    }
+  },
+  {
+    "id": "base3-39",
+    "name": "Magmar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "31",
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Magmortar"
+    ],
+    "attacks": [
+      {
+        "name": "Smokescreen",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      {
+        "name": "Smog",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "39",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "flavorText": "Found at the mouths of volcanoes and extremely hard to spot. There are very few instances of capturing this Pokémon.",
+    "nationalPokedexNumbers": [
+      126
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/39.png",
+      "large": "https://images.pokemontcg.io/base3/39_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-39",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 1.49,
+          "mid": 2.01,
+          "high": 3.14,
+          "market": 2.13,
+          "directLow": 2.03
+        },
+        "unlimited": {
+          "low": 0.1,
+          "mid": 0.5,
+          "high": 2.51,
+          "market": 0.62,
+          "directLow": 0.38
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-39",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.18,
+        "lowPrice": 0.02,
+        "trendPrice": 0.82,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 2.89,
+        "lowPriceExPlus": 0.15,
+        "avg1": 0.4,
+        "avg7": 0.8,
+        "avg30": 1.11,
+        "reverseHoloAvg1": 4,
+        "reverseHoloAvg7": 1.74,
+        "reverseHoloAvg30": 1.74
+      }
+    }
+  },
+  {
+    "id": "base3-4",
+    "name": "Dragonite",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "45",
+    "hp": "100",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Dragonair",
+    "abilities": [
+      {
+        "name": "Step In",
+        "text": "Once during your turn (before your attack), if Dragonite is on your Bench, you may switch it with your Active Pokémon.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Slam",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40×",
+        "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "4",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Rare Holo",
+    "flavorText": "An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
+    "nationalPokedexNumbers": [
+      149
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/4.png",
+      "large": "https://images.pokemontcg.io/base3/4_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-4",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 186.78,
+          "mid": 384.65,
+          "high": 506.46,
+          "market": 401.46,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 44,
+          "mid": 64.88,
+          "high": 175,
+          "market": 67.64,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-4",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 67.38,
+        "lowPrice": 20,
+        "trendPrice": 88.78,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 40.43,
+        "lowPriceExPlus": 43.5,
+        "avg1": 22,
+        "avg7": 101.26,
+        "avg30": 73.59,
+        "reverseHoloAvg1": 81.66,
+        "reverseHoloAvg7": 48.96,
+        "reverseHoloAvg30": 48.56
+      }
+    }
+  },
+  {
+    "id": "base3-40",
+    "name": "Omastar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "32",
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Omanyte",
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Omastar but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      {
+        "name": "Spike Cannon",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "40",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "flavorText": "A prehistoric Pokémon that died out when its heavy shell made it impossible for it to catch prey.",
+    "nationalPokedexNumbers": [
+      139
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/40.png",
+      "large": "https://images.pokemontcg.io/base3/40_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-40",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 1,
+          "mid": 2.25,
+          "high": 6.22,
+          "market": 2.34,
+          "directLow": 2.25
+        },
+        "unlimited": {
+          "low": 0.2,
+          "mid": 0.64,
+          "high": 2.98,
+          "market": 0.79,
+          "directLow": 0.62
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-40",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.31,
+        "lowPrice": 0.02,
+        "trendPrice": 1.22,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.94,
+        "lowPriceExPlus": 0.09,
+        "avg1": 1.34,
+        "avg7": 1.22,
+        "avg30": 1.24,
+        "reverseHoloAvg1": 2,
+        "reverseHoloAvg7": 0.85,
+        "reverseHoloAvg30": 0.85
+      }
+    }
+  },
+  {
+    "id": "base3-41",
+    "name": "Sandslash",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "33",
+    "hp": "70",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Sandshrew",
+    "attacks": [
+      {
+        "name": "Slash",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Fury Swipes",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "41",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "flavorText": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+    "nationalPokedexNumbers": [
+      28
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/41.png",
+      "large": "https://images.pokemontcg.io/base3/41_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-41",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 1,
+          "mid": 2.15,
+          "high": 8.73,
+          "market": 2.2,
+          "directLow": 1.84
+        },
+        "unlimited": {
+          "low": 0.17,
+          "mid": 0.56,
+          "high": 8.73,
+          "market": 0.66,
+          "directLow": 0.51
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-41",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.25,
+        "lowPrice": 0.02,
+        "trendPrice": 1.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.94,
+        "lowPriceExPlus": 0.2,
+        "avg1": 1.8,
+        "avg7": 1.58,
+        "avg30": 1.38,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.63,
+        "reverseHoloAvg30": 0.63
+      }
+    }
+  },
+  {
+    "id": "base3-42",
+    "name": "Seadra",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "23",
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Horsea",
+    "evolvesTo": [
+      "Kingdra"
+    ],
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Seadra but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      },
+      {
+        "name": "Agility",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20",
+        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Seadra."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "42",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "flavorText": "Capable of swimming backward by rapidly flapping its wing-like pectoral fins and stout tail.",
+    "nationalPokedexNumbers": [
+      117
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/42.png",
+      "large": "https://images.pokemontcg.io/base3/42_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-42",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.99,
+          "mid": 1.7,
+          "high": 4.99,
+          "market": 2.31,
+          "directLow": 0.81
+        },
+        "unlimited": {
+          "low": 0.05,
+          "mid": 0.45,
+          "high": 2.07,
+          "market": 0.44,
+          "directLow": 0.19
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-42",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.93,
+        "lowPrice": 0.02,
+        "trendPrice": 0.85,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 2,
+        "lowPriceExPlus": 0.15,
+        "avg1": 0.83,
+        "avg7": 0.68,
+        "avg30": 0.94,
+        "reverseHoloAvg1": 0.98,
+        "reverseHoloAvg7": 1.3,
+        "reverseHoloAvg30": 1.3
+      }
+    }
+  },
+  {
+    "id": "base3-43",
+    "name": "Slowbro",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "26",
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Slowpoke",
+    "abilities": [
+      {
+        "name": "Strange Behavior",
+        "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to Slowbro as long as you don't Knock Out Slowbro. This power can't be used if Slowbro is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Psyshock",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "43",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "flavorText": "The Shellder that is latched onto Slowpoke's tail is said to feed on the host's left-over scraps.",
+    "nationalPokedexNumbers": [
+      80
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/43.png",
+      "large": "https://images.pokemontcg.io/base3/43_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-43",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 1.49,
+          "mid": 2.6,
+          "high": 8.26,
+          "market": 3.35,
+          "directLow": 1.39
+        },
+        "unlimited": {
+          "low": 0.31,
+          "mid": 0.69,
+          "high": 2,
+          "market": 0.89,
+          "directLow": 0.92
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-43",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.83,
+        "lowPrice": 0.02,
+        "trendPrice": 1.24,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 3.89,
+        "lowPriceExPlus": 0.21,
+        "avg1": 3.09,
+        "avg7": 2.23,
+        "avg30": 2.14,
+        "reverseHoloAvg1": 3.89,
+        "reverseHoloAvg7": 2.14,
+        "reverseHoloAvg30": 2.14
+      }
+    }
+  },
+  {
+    "id": "base3-44",
+    "name": "Tentacruel",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "21",
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Tentacool",
+    "attacks": [
+      {
+        "name": "Supersonic",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      {
+        "name": "Jellyfish Sting",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "The Defending Pokémon is now Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "44",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "flavorText": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+    "nationalPokedexNumbers": [
+      73
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/44.png",
+      "large": "https://images.pokemontcg.io/base3/44_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-44",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.97,
+          "mid": 2,
+          "high": 8.72,
+          "market": 2.17,
+          "directLow": 1.89
+        },
+        "unlimited": {
+          "low": 0.04,
+          "mid": 0.68,
+          "high": 2.49,
+          "market": 1.16,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-44",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 2.18,
+        "lowPrice": 0.03,
+        "trendPrice": 1.84,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 2.77,
+        "lowPriceExPlus": 0.19,
+        "avg1": 0.79,
+        "avg7": 1.72,
+        "avg30": 2.32,
+        "reverseHoloAvg1": 4.5,
+        "reverseHoloAvg7": 1.38,
+        "reverseHoloAvg30": 1.38
+      }
+    }
+  },
+  {
+    "id": "base3-45",
+    "name": "Weezing",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "27",
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Koffing",
+    "attacks": [
+      {
+        "name": "Smog",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      {
+        "name": "Selfdestruct",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "Does 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Weezing does 60 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "45",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "flavorText": "Where two kinds of poison gases meet, two Koffings can fuse into a Weezing over many years.",
+    "nationalPokedexNumbers": [
+      110
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/45.png",
+      "large": "https://images.pokemontcg.io/base3/45_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-45",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.57,
+          "mid": 1.87,
+          "high": 4.99,
+          "market": 2.22,
+          "directLow": 1.52
+        },
+        "unlimited": {
+          "low": 0.09,
+          "mid": 0.58,
+          "high": 2,
+          "market": 0.74,
+          "directLow": 0.29
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-45",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.65,
+        "lowPrice": 0.02,
+        "trendPrice": 1.85,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.23,
+        "lowPriceExPlus": 0.35,
+        "avg1": 1.1,
+        "avg7": 1.02,
+        "avg30": 1.61,
+        "reverseHoloAvg1": 0.08,
+        "reverseHoloAvg7": 0.29,
+        "reverseHoloAvg30": 0.29
+      }
+    }
+  },
+  {
+    "id": "base3-46",
+    "name": "Ekans",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "10",
+    "hp": "40",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [
+      "Arbok"
+    ],
+    "attacks": [
+      {
+        "name": "Spit Poison",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      },
+      {
+        "name": "Wrap",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "46",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Common",
+    "flavorText": "Moves silently and stealthily. Eats the eggs of birds such as Pidgey and Spearow whole.",
+    "nationalPokedexNumbers": [
+      23
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/46.png",
+      "large": "https://images.pokemontcg.io/base3/46_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-46",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.35,
+          "mid": 0.8,
+          "high": 6.44,
+          "market": 0.75,
+          "directLow": 0.35
+        },
+        "unlimited": {
+          "low": 0.05,
+          "mid": 0.28,
+          "high": 5.29,
+          "market": 0.28,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-46",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.43,
+        "lowPrice": 0.02,
+        "trendPrice": 0.58,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.52,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.33,
+        "avg7": 0.45,
+        "avg30": 0.41,
+        "reverseHoloAvg1": 0.05,
+        "reverseHoloAvg7": 0.41,
+        "reverseHoloAvg30": 0.41
+      }
+    }
+  },
+  {
+    "id": "base3-47",
+    "name": "Geodude",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "16",
+    "hp": "50",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [
+      "Graveler"
+    ],
+    "attacks": [
+      {
+        "name": "Stone Barrage",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10×",
+        "text": "Flip a coin until you get tails. This attack does 10 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "47",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Common",
+    "flavorText": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+    "nationalPokedexNumbers": [
+      74
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/47.png",
+      "large": "https://images.pokemontcg.io/base3/47_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-47",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.37,
+          "mid": 1,
+          "high": 5,
+          "market": 1.09,
+          "directLow": 0.59
+        },
+        "unlimited": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 2,
+          "market": 0.24,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-47",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.41,
+        "lowPrice": 0.02,
+        "trendPrice": 0.51,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 2.41,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.48,
+        "avg7": 0.45,
+        "avg30": 0.42,
+        "reverseHoloAvg1": 4,
+        "reverseHoloAvg7": 1.52,
+        "reverseHoloAvg30": 1.52
+      }
+    }
+  },
+  {
+    "id": "base3-48",
+    "name": "Grimer",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "17",
+    "hp": "50",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [
+      "Muk"
+    ],
+    "attacks": [
+      {
+        "name": "Nasty Goo",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Minimize",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "All damage done by attacks to Grimer during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "48",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Common",
+    "flavorText": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+    "nationalPokedexNumbers": [
+      88
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/48.png",
+      "large": "https://images.pokemontcg.io/base3/48_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-48",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.3,
+          "mid": 0.9,
+          "high": 5,
+          "market": 0.89,
+          "directLow": 0.32
+        },
+        "unlimited": {
+          "low": 0.06,
+          "mid": 0.28,
+          "high": 2,
+          "market": 0.3,
+          "directLow": 0.24
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-48",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.4,
+        "lowPrice": 0.02,
+        "trendPrice": 0.44,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.88,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.31,
+        "avg7": 0.46,
+        "avg30": 0.39,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.71,
+        "reverseHoloAvg30": 0.71
+      }
+    }
+  },
+  {
+    "id": "base3-49",
+    "name": "Horsea",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "19",
+    "hp": "40",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Seadra"
+    ],
+    "attacks": [
+      {
+        "name": "Smokescreen",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "49",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Common",
+    "flavorText": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+    "nationalPokedexNumbers": [
+      116
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/49.png",
+      "large": "https://images.pokemontcg.io/base3/49_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-49",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.25,
+          "mid": 0.86,
+          "high": 5,
+          "market": 0.82,
+          "directLow": 0.37
+        },
+        "unlimited": {
+          "low": 0.02,
+          "mid": 0.25,
+          "high": 2.4,
+          "market": 0.24,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-49",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.55,
+        "lowPrice": 0.02,
+        "trendPrice": 0.27,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.8,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.06,
+        "avg7": 0.27,
+        "avg30": 0.52,
+        "reverseHoloAvg1": 0.6,
+        "reverseHoloAvg7": 0.83,
+        "reverseHoloAvg30": 0.83
+      }
+    }
+  },
+  {
+    "id": "base3-5",
+    "name": "Gengar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "38",
+    "hp": "80",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Haunter",
+    "abilities": [
+      {
+        "name": "Curse",
+        "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Dark Mind",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "5",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Rare Holo",
+    "flavorText": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+    "nationalPokedexNumbers": [
+      94
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/5.png",
+      "large": "https://images.pokemontcg.io/base3/5_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-5",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 77.38,
+          "mid": 158,
+          "high": 495,
+          "market": 223.07,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 39.99,
+          "mid": 44.99,
+          "high": 149.99,
+          "market": 58.42,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-5",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 50.1,
+        "lowPrice": 8,
+        "trendPrice": 56.17,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 29.47,
+        "lowPriceExPlus": 38,
+        "avg1": 40,
+        "avg7": 47.36,
+        "avg30": 56.88,
+        "reverseHoloAvg1": 95,
+        "reverseHoloAvg7": 31.3,
+        "reverseHoloAvg30": 31.56
+      }
+    }
+  },
+  {
+    "id": "base3-50",
+    "name": "Kabuto",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "9",
+    "hp": "30",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Mysterious Fossil",
+    "evolvesTo": [
+      "Kabutops"
+    ],
+    "abilities": [
+      {
+        "name": "Kabuto Armor",
+        "text": "Whenever an attack (even your own) does damage to Kabuto (after applying Weakness and Resistance), that attack does half the damage to Kabuto (rounded down to the nearest 10). (Any other effects of attacks still happen.) This power stops working while Kabuto is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Scratch",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "50",
+    "artist": "Ken Sugimori",
+    "rarity": "Common",
+    "flavorText": "A Pokémon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+    "nationalPokedexNumbers": [
+      140
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/50.png",
+      "large": "https://images.pokemontcg.io/base3/50_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-50",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.17,
+          "mid": 0.89,
+          "high": 6.09,
+          "market": 0.8,
+          "directLow": 0.37
+        },
+        "unlimited": {
+          "low": 0.09,
+          "mid": 0.29,
+          "high": 2,
+          "market": 0.33,
+          "directLow": 0.13
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-50",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.68,
+        "lowPrice": 0.02,
+        "trendPrice": 0.82,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.67,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.69,
+        "avg7": 0.47,
+        "avg30": 0.66,
+        "reverseHoloAvg1": 0.55,
+        "reverseHoloAvg7": 0.58,
+        "reverseHoloAvg30": 0.58
+      }
+    }
+  },
+  {
+    "id": "base3-51",
+    "name": "Krabby",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "20",
+    "hp": "50",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Kingler"
+    ],
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a Basic Pokémon named Krabby and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench if full.)"
+      },
+      {
+        "name": "Irongrip",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "51",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Common",
+    "flavorText": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+    "nationalPokedexNumbers": [
+      98
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/51.png",
+      "large": "https://images.pokemontcg.io/base3/51_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-51",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.42,
+          "mid": 0.84,
+          "high": 5.81,
+          "market": 0.82,
+          "directLow": 0.35
+        },
+        "unlimited": {
+          "low": 0.05,
+          "mid": 0.28,
+          "high": 2,
+          "market": 0.26,
+          "directLow": 0.11
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-51",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.41,
+        "lowPrice": 0.02,
+        "trendPrice": 0.33,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.99,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.18,
+        "avg7": 0.37,
+        "avg30": 0.4,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.7,
+        "reverseHoloAvg30": 0.7
+      }
+    }
+  },
+  {
+    "id": "base3-52",
+    "name": "Omanyte",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "19",
+    "hp": "40",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Mysterious Fossil",
+    "evolvesTo": [
+      "Omastar"
+    ],
+    "abilities": [
+      {
+        "name": "Clairvoyance",
+        "text": "Your opponent plays with his or her hand face up. This power stops working while Omanyte is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Omanyte but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "52",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Common",
+    "flavorText": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+    "nationalPokedexNumbers": [
+      138
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/52.png",
+      "large": "https://images.pokemontcg.io/base3/52_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-52",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.23,
+          "mid": 0.79,
+          "high": 45,
+          "market": 0.73,
+          "directLow": 0.73
+        },
+        "unlimited": {
+          "low": 0.08,
+          "mid": 0.28,
+          "high": 2.09,
+          "market": 0.29,
+          "directLow": 0.11
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-52",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.93,
+        "lowPrice": 0.02,
+        "trendPrice": 0.45,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.95,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.72,
+        "avg7": 0.51,
+        "avg30": 0.9,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.81,
+        "reverseHoloAvg30": 0.81
+      }
+    }
+  },
+  {
+    "id": "base3-53",
+    "name": "Psyduck",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "15",
+    "hp": "50",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Golduck"
+    ],
+    "attacks": [
+      {
+        "name": "Headache",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Your opponent can't play Trainer cards during his or her next turn."
+      },
+      {
+        "name": "Fury Swipes",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10×",
+        "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "53",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Common",
+    "flavorText": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
+    "nationalPokedexNumbers": [
+      54
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/53.png",
+      "large": "https://images.pokemontcg.io/base3/53_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-53",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.47,
+          "mid": 1.25,
+          "high": 4.99,
+          "market": 1.68,
+          "directLow": 0.42
+        },
+        "unlimited": {
+          "low": 0.01,
+          "mid": 0.37,
+          "high": 3.25,
+          "market": 0.39,
+          "directLow": 0.26
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-53",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.72,
+        "lowPrice": 0.02,
+        "trendPrice": 1.32,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 1.03,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.87,
+        "avg7": 1.69,
+        "avg30": 0.96,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.72,
+        "reverseHoloAvg30": 0.72
+      }
+    }
+  },
+  {
+    "id": "base3-54",
+    "name": "Shellder",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "8",
+    "hp": "30",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Cloyster"
+    ],
+    "attacks": [
+      {
+        "name": "Supersonic",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      {
+        "name": "Hide in Shell",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, prevent all damage done to Shellder during your opponent's next turn. (Any other effects of attacks still happen.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "54",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Common",
+    "flavorText": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+    "nationalPokedexNumbers": [
+      90
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/54.png",
+      "large": "https://images.pokemontcg.io/base3/54_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-54",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.24,
+          "mid": 0.8,
+          "high": 4.99,
+          "market": 0.9,
+          "directLow": 0.37
+        },
+        "unlimited": {
+          "low": 0.05,
+          "mid": 0.29,
+          "high": 2,
+          "market": 0.28,
+          "directLow": 0.22
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-54",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.57,
+        "lowPrice": 0.02,
+        "trendPrice": 0.53,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.79,
+        "lowPriceExPlus": 0.03,
+        "avg1": 0.75,
+        "avg7": 0.51,
+        "avg30": 0.58,
+        "reverseHoloAvg1": 0.79,
+        "reverseHoloAvg7": 0.42,
+        "reverseHoloAvg30": 0.42
+      }
+    }
+  },
+  {
+    "id": "base3-55",
+    "name": "Slowpoke",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "18",
+    "hp": "50",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [
+      "Slowbro",
+      "Slowking"
+    ],
+    "attacks": [
+      {
+        "name": "Spacing Out",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, remove a damage counter from Slowpoke. This attack can't be used if Slowpoke has no damage counters on it."
+      },
+      {
+        "name": "Scavenge",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Discard 1 Psychic Energy card attached to Slowpoke in order to use this attack. Put a Trainer card from your discard pile into your hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "55",
+    "artist": "Miki Tanaka",
+    "rarity": "Common",
+    "flavorText": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+    "nationalPokedexNumbers": [
+      79
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/55.png",
+      "large": "https://images.pokemontcg.io/base3/55_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-55",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.35,
+          "mid": 1.15,
+          "high": 4.99,
+          "market": 1.21,
+          "directLow": 1.29
+        },
+        "unlimited": {
+          "low": 0.05,
+          "mid": 0.32,
+          "high": 20.24,
+          "market": 0.39,
+          "directLow": 0.17
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-55",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.64,
+        "lowPrice": 0.02,
+        "trendPrice": 0.57,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.85,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.76,
+        "avg7": 0.53,
+        "avg30": 0.64,
+        "reverseHoloAvg1": 0.5,
+        "reverseHoloAvg7": 0.65,
+        "reverseHoloAvg30": 0.65
+      }
+    }
+  },
+  {
+    "id": "base3-56",
+    "name": "Tentacool",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "10",
+    "hp": "30",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Tentacruel"
+    ],
+    "abilities": [
+      {
+        "name": "Cowardice",
+        "text": "At any time during your turn (before your attack), you may return Tentacool to your hand. (Discard all cards attached to Tentacool.) This power can't be used the turn you put Tentacool into play or if Tentacool is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Acid",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "56",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Common",
+    "flavorText": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+    "nationalPokedexNumbers": [
+      72
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/56.png",
+      "large": "https://images.pokemontcg.io/base3/56_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-56",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.34,
+          "mid": 0.79,
+          "high": 5,
+          "market": 0.87,
+          "directLow": 0.35
+        },
+        "unlimited": {
+          "low": 0.03,
+          "mid": 0.3,
+          "high": 2,
+          "market": 0.32,
+          "directLow": 0.12
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-56",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.5,
+        "lowPrice": 0.02,
+        "trendPrice": 0.41,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 2.34,
+        "lowPriceExPlus": 0.05,
+        "avg1": 0.55,
+        "avg7": 0.45,
+        "avg30": 0.45,
+        "reverseHoloAvg1": 2.5,
+        "reverseHoloAvg7": 0.95,
+        "reverseHoloAvg30": 0.95
+      }
+    }
+  },
+  {
+    "id": "base3-57",
+    "name": "Zubat",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "10",
+    "hp": "40",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [
+      "Golbat"
+    ],
+    "attacks": [
+      {
+        "name": "Supersonic",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      {
+        "name": "Leech Life",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "Remove a number of damage counters from Zubat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Zubat has fewer damage counters than that, remove all of them."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "57",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Common",
+    "flavorText": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+    "nationalPokedexNumbers": [
+      41
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/57.png",
+      "large": "https://images.pokemontcg.io/base3/57_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-57",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.24,
+          "mid": 0.85,
+          "high": 5.49,
+          "market": 0.71,
+          "directLow": 0.25
+        },
+        "unlimited": {
+          "low": 0.04,
+          "mid": 0.27,
+          "high": 2,
+          "market": 0.28,
+          "directLow": 0.16
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-57",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.49,
+        "lowPrice": 0.02,
+        "trendPrice": 0.48,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.12,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.45,
+        "avg7": 0.38,
+        "avg30": 0.48,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.17,
+        "reverseHoloAvg30": 0.17
+      }
+    }
+  },
+  {
+    "id": "base3-58",
+    "name": "Mr. Fuji",
+    "supertype": "Trainer",
+    "rules": [
+      "Choose a Pokémon on your Bench. Shuffle it and any cards attached to it into your deck."
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "58",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/58.png",
+      "large": "https://images.pokemontcg.io/base3/58_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-58",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.24,
+          "mid": 0.87,
+          "high": 1.92,
+          "market": 1.16,
+          "directLow": 1.79
+        },
+        "unlimited": {
+          "low": 0.08,
+          "mid": 0.32,
+          "high": 2,
+          "market": 0.33,
+          "directLow": 0.12
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-58",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 1.06,
+        "lowPrice": 0.02,
+        "trendPrice": 1.4,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.21,
+        "lowPriceExPlus": 0.06,
+        "avg1": 1.64,
+        "avg7": 1.71,
+        "avg30": 1.12,
+        "reverseHoloAvg1": 0.2,
+        "reverseHoloAvg7": 0.43,
+        "reverseHoloAvg30": 0.43
+      }
+    }
+  },
+  {
+    "id": "base3-59",
+    "name": "Energy Search",
+    "supertype": "Trainer",
+    "rules": [
+      "Search your deck for a basic Energy card and put it into your hand. Shuffle your deck afterward."
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "59",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/59.png",
+      "large": "https://images.pokemontcg.io/base3/59_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-59",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.1,
+          "mid": 0.47,
+          "high": 4.99,
+          "market": 0.49,
+          "directLow": 0.21
+        },
+        "unlimited": {
+          "low": 0.01,
+          "mid": 0.22,
+          "high": 4.28,
+          "market": 0.2,
+          "directLow": 0.15
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-59",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.56,
+        "lowPrice": 0.02,
+        "trendPrice": 0.2,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.85,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.43,
+        "avg7": 0.29,
+        "avg30": 0.28,
+        "reverseHoloAvg1": 1,
+        "reverseHoloAvg7": 0.48,
+        "reverseHoloAvg30": 0.48
+      }
+    }
+  },
+  {
+    "id": "base3-6",
+    "name": "Haunter",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "17",
+    "hp": "50",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Gastly",
+    "evolvesTo": [
+      "Gengar"
+    ],
+    "abilities": [
+      {
+        "name": "Transparency",
+        "text": "Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Nightmare",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "The Defending Pokémon is now Asleep."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "6",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+    "nationalPokedexNumbers": [
+      93
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/6.png",
+      "large": "https://images.pokemontcg.io/base3/6_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-6",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 36.26,
+          "mid": 45,
+          "high": 249,
+          "market": 61.36,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 10,
+          "mid": 16.09,
+          "high": 52.83,
+          "market": 21.33,
+          "directLow": 19.97
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-6",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 21.19,
+        "lowPrice": 4.9,
+        "trendPrice": 21.52,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 12.76,
+        "lowPriceExPlus": 13.49,
+        "avg1": 23.24,
+        "avg7": 21.97,
+        "avg30": 21.83,
+        "reverseHoloAvg1": 14.5,
+        "reverseHoloAvg7": 17.69,
+        "reverseHoloAvg30": 14.34
+      }
+    }
+  },
+  {
+    "id": "base3-60",
+    "name": "Gambler",
+    "supertype": "Trainer",
+    "rules": [
+      "Shuffle your hand into your deck. Flip a coin. If heads, draw 8 cards. If tails, draw 1 card."
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "60",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/60.png",
+      "large": "https://images.pokemontcg.io/base3/60_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-60",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.05,
+          "mid": 0.5,
+          "high": 2.99,
+          "market": 1.16,
+          "directLow": 0.24
+        },
+        "unlimited": {
+          "low": 0.05,
+          "mid": 0.22,
+          "high": 2,
+          "market": 0.16,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-60",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.3,
+        "lowPrice": 0.02,
+        "trendPrice": 0.32,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.3,
+        "lowPriceExPlus": 0.04,
+        "avg1": 0.41,
+        "avg7": 0.32,
+        "avg30": 0.3,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.3,
+        "reverseHoloAvg30": 0.3
+      }
+    }
+  },
+  {
+    "id": "base3-61",
+    "name": "Recycle",
+    "supertype": "Trainer",
+    "rules": [
+      "Flip a coin. If heads, put a card in your discard pile on top of your deck."
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "61",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/61.png",
+      "large": "https://images.pokemontcg.io/base3/61_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-61",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.13,
+          "mid": 0.34,
+          "high": 2,
+          "market": 0.31,
+          "directLow": 0.25
+        },
+        "unlimited": {
+          "low": 0.03,
+          "mid": 0.22,
+          "high": 2,
+          "market": 0.18,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-61",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.36,
+        "lowPrice": 0.02,
+        "trendPrice": 0.37,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.3,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.46,
+        "avg7": 0.52,
+        "avg30": 0.29,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.3,
+        "reverseHoloAvg30": 0.3
+      }
+    }
+  },
+  {
+    "id": "base3-62",
+    "name": "Mysterious Fossil",
+    "supertype": "Trainer",
+    "hp": "10",
+    "rules": [
+      "Play Mysterious Fossil as if it were a Basic Pokémon. While in play, Mysterious Fossil counts as a Pokémon (instead of a Trainer card). Mysterious Fossil has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play."
+    ],
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "62",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/62.png",
+      "large": "https://images.pokemontcg.io/base3/62_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-62",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEdition": {
+          "low": 0.05,
+          "mid": 0.41,
+          "high": 4.99,
+          "market": 0.43,
+          "directLow": 0.25
+        },
+        "unlimited": {
+          "low": 0.02,
+          "mid": 0.23,
+          "high": 2,
+          "market": 0.22,
+          "directLow": 0.12
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-62",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 0.35,
+        "lowPrice": 0.02,
+        "trendPrice": 0.35,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 0.3,
+        "lowPriceExPlus": 0.02,
+        "avg1": 0.39,
+        "avg7": 0.4,
+        "avg30": 0.35,
+        "reverseHoloAvg1": 0.3,
+        "reverseHoloAvg7": 0.3,
+        "reverseHoloAvg30": 0.3
+      }
+    }
+  },
+  {
+    "id": "base3-7",
+    "name": "Hitmonlee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "30",
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Stretch Kick",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "High Jump Kick",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "7",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+    "nationalPokedexNumbers": [
+      106
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/7.png",
+      "large": "https://images.pokemontcg.io/base3/7_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-7",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 50,
+          "mid": 70,
+          "high": 119.99,
+          "market": 71.81,
+          "directLow": 84.18
+        },
+        "unlimitedHolofoil": {
+          "low": 10,
+          "mid": 14.88,
+          "high": 41.54,
+          "market": 20.25,
+          "directLow": 15.97
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-7",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 30.2,
+        "lowPrice": 3,
+        "trendPrice": 26.98,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 24.4,
+        "lowPriceExPlus": 13,
+        "avg1": 13.5,
+        "avg7": 29.29,
+        "avg30": 30.4,
+        "reverseHoloAvg1": 6.99,
+        "reverseHoloAvg7": 20.95,
+        "reverseHoloAvg30": 19.95
+      }
+    }
+  },
+  {
+    "id": "base3-8",
+    "name": "Hypno",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "36",
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Drowzee",
+    "attacks": [
+      {
+        "name": "Prophecy",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Look at up to 3 cards from the top of either player's deck and rearrange them as you like."
+      },
+      {
+        "name": "Dark Mind",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "8",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "When it locks eyes with an enemy, it will use a mix of psi moves such as Hypnosis and Confusion.",
+    "nationalPokedexNumbers": [
+      97
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/8.png",
+      "large": "https://images.pokemontcg.io/base3/8_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-8",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 31,
+          "mid": 54.5,
+          "high": 105,
+          "market": 55.4,
+          "directLow": 44.99
+        },
+        "unlimitedHolofoil": {
+          "low": 9.2,
+          "mid": 16.3,
+          "high": 35.7,
+          "market": 17.12,
+          "directLow": 14.97
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-8",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 24.55,
+        "lowPrice": 4,
+        "trendPrice": 33.08,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 23.7,
+        "lowPriceExPlus": 10,
+        "avg1": 56.13,
+        "avg7": 36.33,
+        "avg30": 27.56,
+        "reverseHoloAvg1": 65,
+        "reverseHoloAvg7": 18.26,
+        "reverseHoloAvg30": 15.61
+      }
+    }
+  },
+  {
+    "id": "base3-9",
+    "name": "Kabutops",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "30",
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Kabuto",
+    "attacks": [
+      {
+        "name": "Sharp Sickle",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Absorb",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40",
+        "text": "Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "printedTotal": 62,
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "ptcgoCode": "FO",
+      "releaseDate": "1999/10/10",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+        "logo": "https://images.pokemontcg.io/base3/logo.png"
+      }
+    },
+    "number": "9",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.",
+    "nationalPokedexNumbers": [
+      141
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/9.png",
+      "large": "https://images.pokemontcg.io/base3/9_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/base3-9",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "1stEditionHolofoil": {
+          "low": 35,
+          "mid": 60,
+          "high": 75.55,
+          "market": 65.26,
+          "directLow": null
+        },
+        "unlimitedHolofoil": {
+          "low": 10.99,
+          "mid": 15.8,
+          "high": 54,
+          "market": 18.65,
+          "directLow": 17.95
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://prices.pokemontcg.io/cardmarket/base3-9",
+      "updatedAt": "2024/11/22",
+      "prices": {
+        "averageSellPrice": 24.41,
+        "lowPrice": 2.8,
+        "trendPrice": 26.52,
+        "germanProLow": 0,
+        "suggestedPrice": 0,
+        "reverseHoloSell": 0,
+        "reverseHoloLow": 0,
+        "reverseHoloTrend": 17.35,
+        "lowPriceExPlus": 10,
+        "avg1": 35.58,
+        "avg7": 35.07,
+        "avg30": 27.37,
+        "reverseHoloAvg1": 21.83,
+        "reverseHoloAvg7": 16.37,
+        "reverseHoloAvg30": 17.09
+      }
+    }
+  }
+]

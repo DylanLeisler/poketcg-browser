@@ -1,0 +1,22 @@
+{
+  "name": "Card Game PWA",
+  "short_name": "Card Game",
+  "description": "An offline card game with PWA features",
+  "start_url": "index.html",
+  "display": "standalone", 
+  "orientation": "landscape",
+  "background_color": "#ffffff",
+  "theme_color": "#87CEFA",
+  "icons": [
+      {
+          "src": "assets/icons/small_pikachu.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "assets/icons/small_krabby.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      }
+  ]
+}

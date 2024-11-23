@@ -1,0 +1,51 @@
+html, body {
+    /* height: 100%; */
+    min-height: 320px;
+    min-width: 480px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#start-container {
+    margin-top: 20vh;
+}
+
+#start-game {
+    padding: 15px 30px;
+    font-size: 20px;
+}
+
+#game-container {
+    aspect-ratio: 3 / 2;           
+    width: calc(100vw - 4vw);       /* Width that accounts for the margin */
+    height: calc((100vw - 4vw) / (3 / 2)); /* Calculate height from width with 16:9 ratio */
+    max-width: 100%;                /* Do not exceed viewport width */
+    max-height: 96vh;               /* Do not exceed available height */
+    position: relative;
+    margin: 2vh 2vw;                /* Margin around the container */
+    overflow: hidden;
+    border: 6px solid rgb(174, 255, 137);
+    background-color: darkslateblue;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+
+#board {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 40% 20% 40%;
+    width: auto;
+    height: 100%;
+    position: relative;
+    /* justify-self: center; */
+    border-color: rgb(77, 49, 12);
+    border-width: 6px 4px 6px 4px;
+    border-style: solid;
+    background-color: lightgray;
+    overflow: hidden;
+}
+

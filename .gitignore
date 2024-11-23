@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build directories and cache
+dist/
+build/
+out/
+cache/
+.parcel-cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temp files and lock files
+*.swp
+*.swo
+yarn.lock
+package-lock.json
+
+# Coverage
+coverage/
+
